@@ -1,0 +1,1 @@
+hello hi how are youlearn appendfile function using synchronuousutil not i learn basic function of FS modulehello hi how are youlearn appendfile function using asynchronuous
